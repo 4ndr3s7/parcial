@@ -11,6 +11,18 @@ comparaciones o desiciones.
 
 3.¿Cuál es la diferencia entre un array y un objeto en JavaScript? Proporciona un ejemplo de
 cada uno.
+-Un array es una estrutura para datos que nos permite almacenar una lista ordenada 
+de objetos
+ejemplos:
+var nombresAlumnos =["Johstin","Jaime","Juan","Manuel",]
+
+-Un objeto es una variable que almacena una llave (o clase) y un valor.
+ejemplos:
+var Carro ={
+    marca: TwingoToyota,
+    color: Rojo,
+    placa: lfb33g
+} 
 
 
 

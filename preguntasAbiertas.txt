@@ -4,7 +4,8 @@ Mientras que "===" compara si dos valores son iguales, pero sin permitir convers
 
 
 2.¿Qué es una declaración switch en JavaScript y cuándo es útil su uso?
-
+El switch en JavaScript funciona para comparar valores en multiples casos, y este puede ser util en algunas
+comparaciones o desiciones.
 
 
 

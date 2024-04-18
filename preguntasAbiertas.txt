@@ -33,3 +33,10 @@ uso.
 
 5.¿Qué es un operador de comparación en JavaScript? Proporciona ejemplos de al menos dos
 operadores de comparación y explica cómo funcionan.
+ 
+
+Los operadores de comparación  son herramientas que  permiten comparar valores.
+console.log(5 === 5);  // true
+console.log(5 === 6);    // false
+
+

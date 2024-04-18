@@ -28,7 +28,7 @@ var Carro ={
 
 4.Explica cómo funciona el operador ternario en JavaScript y proporciona un ejemplo de su
 uso.
-
+Es una forma de escribir una instruccion en JavaScript
 
 
 5.¿Qué es un operador de comparación en JavaScript? Proporciona ejemplos de al menos dos

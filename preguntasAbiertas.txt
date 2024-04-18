@@ -3,7 +3,8 @@ el "==" compara si dos valores son iguales, permitiendo conversiones entre tipos
 Mientras que "===" compara si dos valores son iguales, pero sin permitir conversiones entre tipos de datos, es más estricto en la comparación.
 
 2.¿Qué es una declaración switch en JavaScript y cuándo es útil su uso?
-
+El switch en JavaScript funciona para comparar valores en multiples casos, y este puede ser util en algunas
+comparaciones o desiciones.
 
 3.¿Cuál es la diferencia entre un array y un objeto en JavaScript? Proporciona un ejemplo de
 cada uno.

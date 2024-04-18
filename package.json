@@ -4,7 +4,12 @@
   "description": "",
   "main": "punto1.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "punto1":"node punto1.js",
+    "punto2":"node punto2.js",
+    "punto3":"node punto3.js",
+    "punto4":"node punto4.js",
+    "punto5":"node punto5.js"
   },
   "keywords": [],
   "author": "",
